@@ -1,0 +1,3 @@
+example-service:
+  any: example-service
+  default: example-service

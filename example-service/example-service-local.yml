@@ -1,0 +1,2 @@
+example-service:
+  default: example-service-local

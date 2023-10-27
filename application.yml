@@ -1,0 +1,3 @@
+application:
+  any: application
+  default: application
